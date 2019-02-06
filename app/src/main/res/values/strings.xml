@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PracticaTEMA6</string>
+    <string name="app_name" translatable="false">PracticaTEMA6</string>
     <string name="Persona">Persona</string>
     <string name="BlocDeNotas">Bloc de Notas</string>
     <string name="enviar_correo">Enviar Correo</string>
