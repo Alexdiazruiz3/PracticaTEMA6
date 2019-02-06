@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imgSiluetaPersona"
+        android:layout_width="204dp"
+        android:layout_height="384dp"
+        app:srcCompat="@drawable/personas2"
+        android:contentDescription="TODO" />
+
+    <ImageView
+        android:id="@+id/imgBlocDeNotas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bloc2" />
+</LinearLayout>
