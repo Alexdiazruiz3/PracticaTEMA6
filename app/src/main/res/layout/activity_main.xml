@@ -10,8 +10,8 @@
         android:id="@+id/imgSiluetaPersona"
         android:layout_width="204dp"
         android:layout_height="384dp"
-        app:srcCompat="@drawable/personas2"
-        android:contentDescription="TODO" />
+        android:contentDescription="TODO"
+        app:srcCompat="@drawable/personas2" />
 
     <ImageView
         android:id="@+id/imgBlocDeNotas"
