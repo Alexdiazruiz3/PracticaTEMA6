@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTEMA6</string>
+    <string name="Persona">Person</string>
+    <string name="BlocDeNotas">Notes</string>
+    <string name="enviar_correo">Mail</string>
+    <string name="telefonear">Call</string>
+    <string name="toast_correcto">Save!</string>
+</resources>
