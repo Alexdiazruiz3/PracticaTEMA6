@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaTEMA6</string>
+    <string name="Persona">Persona</string>
+    <string name="BlocDeNotas">Bloc de Notas</string>
+    <string name="enviar_correo">Enviar Correo</string>
+    <string name="telefonear">Llamar</string>
+    <string name="toast_correcto">Guardado Correctamente!</string>
+</resources>
